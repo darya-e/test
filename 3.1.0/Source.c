@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <Windows.h>
 
-//me
-//ye
+
 void Task1() {
 	printf("Task1() START\n");
 
